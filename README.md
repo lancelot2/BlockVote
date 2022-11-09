@@ -1,3 +1,5 @@
+<img width="76" alt="Group 3 (6)" src="https://user-images.githubusercontent.com/15788919/200873446-14588674-d6bf-4b0b-912c-06d27c8ada4a.png">
+
 # Introduction
 In person voting is probably one of the most archaic process in modern times. First tons of ballots needs to be printed out and distributed. Then, voters needs to show up where they are registered on a specific day with a valid ID. They need to queue and isolate themselves. Volunteers needs to help, control and then they needs to manually counts and report. Finally, a central entity needs to consolidate and publish the results. 
 There are so many frictions that despite the importance of voting, abstention is on the rise, jeopardizing the health of our democratic communities. 
