@@ -29,7 +29,7 @@ The initial intent of this project is to focus solely on application challenges.
 
 
 # Project breakdown
-For the time being, XYZ can be split into 2 distinct projects
+For the time being, BlockVote can be split into 2 distinct projects
 
 1. A front end web app covering the 3 basic needs of a basic election: (i) setting up a poll, (ii) casting votes and (iii) displaying the results. 
 2. A smart contract wizard generating a unique code for every poll initiated based on the inserted settings. 
@@ -37,7 +37,7 @@ For the time being, XYZ can be split into 2 distinct projects
 Both projects can be used together or separated based on every community need. 
 
 # Contributing
-First, thank you for considering contributing to XYZ.
+First, thank you for considering contributing to BlockVote.
 - If you are a front end developer, we need help to convert our prototype into an actual app 
 - If you are a solidity developer, we need help to build our smart contract template
 - If you are into APIs, we need help to sync both apps
@@ -51,8 +51,8 @@ Front end app
 
 
 # Credits
-- [Vocdoni]([url](https://vocdoni.app/)) by Aragon.org
+- [Vocdoni](https://vocdoni.app/) by Aragon.org
 - "Analysis of Blockchain Solutions for E-Voting: A Systematic Literature Review" by Ali Benabdallah, Antoine Audras, Louis Coudert, Nour El Madhoun and Mohamad Badra
 
 # License
-XYZ is MIT licensed.
+BlockVote is MIT licensed.
