@@ -8,6 +8,8 @@ In parrallel, the blockchain technology offers valuable core properties for impl
 
 This project intends to build an open source decentralized voting application. 
 
+[Current prototype]([url](https://www.figma.com/proto/pgmKVTWh4lNywE4llCZjB6/E-voting?node-id=459%3A9085&scaling=min-zoom&page-id=404%3A2&starting-point-node-id=456%3A8884))
+
 # Disclaimer and scope
 Even if blockchain solves some key components of an election, online voting also comes with its own set of challenges that needs to be overcome in order to offer a viable alternative to in person voting. 
 
@@ -49,6 +51,7 @@ Front end app
 
 
 # Credits
+- [Vocdoni]([url](https://vocdoni.app/)) by Aragon.org
 - "Analysis of Blockchain Solutions for E-Voting: A Systematic Literature Review" by Ali Benabdallah, Antoine Audras, Louis Coudert, Nour El Madhoun and Mohamad Badra
 
 # License
