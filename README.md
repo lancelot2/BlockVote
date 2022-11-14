@@ -9,6 +9,7 @@ In parrallel, the blockchain technology offers valuable core properties for impl
 This project intends to build an open source decentralized voting application. 
 
 [Updated DB schema](https://ondras.zarovi.cz/sql/demo/?keyword=BlockVote)
+
 [Current prototype](https://www.figma.com/proto/pgmKVTWh4lNywE4llCZjB6/E-voting?node-id=459%3A9085&scaling=min-zoom&page-id=404%3A2&starting-point-node-id=456%3A8884)
 
 
