@@ -10,6 +10,9 @@ This project intends to build an open source decentralized voting application.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_7y-fo9P40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[<img src="https://img.youtube.com/vi/F_7y-fo9P40/maxresdefault.jpg" width="50%">](https://youtu.be/F_7y-fo9P40)
+
+
 Key documents: 
 - [Core flow demo](https://youtu.be/F_7y-fo9P40)
 - [Updated DB schema](https://ondras.zarovi.cz/sql/demo/?keyword=BlockVote)
