@@ -15,7 +15,7 @@ This project intends to build an open source decentralized voting application.
 
 # Key documents: 
 - [Updated DB schema](https://ondras.zarovi.cz/sql/demo/?keyword=BlockVote)
-- [Current prototype](https://www.figma.com/proto/pgmKVTWh4lNywE4llCZjB6/E-voting?node-id=459%3A9085&scaling=min-zoom&page-id=404%3A2&starting-point-node-id=456%3A8884)
+- [Current prototype](https://www.figma.com/file/pgmKVTWh4lNywE4llCZjB6/BlockVote?node-id=509%3A10558&t=aqJALhOPT37GxGFH-1)
 
 
 # Disclaimer and scope
