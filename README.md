@@ -9,7 +9,7 @@ In parrallel, the blockchain technology offers valuable core properties for impl
 This project intends to build an open source decentralized voting application. 
 
 
-# Core flow demo
+# Core flow demo video
 [<img src="https://img.youtube.com/vi/F_7y-fo9P40/maxresdefault.jpg" width="50%">](https://youtu.be/F_7y-fo9P40)
 
 
